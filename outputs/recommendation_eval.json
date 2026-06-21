@@ -1,0 +1,8 @@
+{
+  "precision_at_5": 0.6233333333333333,
+  "hits": 187,
+  "total_evaluated": 300,
+  "baseline_avg_rating": 3.6938888888888886,
+  "recommended_avg_rating": 3.8220666666666663,
+  "engagement_lift_pct": 3.4699954880433133
+}

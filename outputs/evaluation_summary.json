@@ -1,0 +1,15 @@
+{
+  "silhouette_score_final": 0.19652363066240422,
+  "hierarchical_silhouette": 0.1815554130378107,
+  "ari_kmeans_vs_hierarchical": 0.6009706760252783,
+  "intra_cluster_similarity": {
+    "0": 0.1837934425143495,
+    "1": 0.6038648264499945,
+    "2": 0.48765362745375607,
+    "3": 0.6859425947394014,
+    "4": 0.5924726459019286
+  },
+  "avg_cross_cluster_similarity": -0.11173510093945879,
+  "recommendation_precision_at_5": 0.6233333333333333,
+  "engagement_lift_pct_proxy": 3.4699954880433133
+}

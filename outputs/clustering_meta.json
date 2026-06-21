@@ -1,0 +1,35 @@
+{
+  "numeric_features": [
+    "Age",
+    "TotalCoursesEnrolled",
+    "NumCategoriesExplored",
+    "AvgCoursesPerCategory",
+    "EnrollmentFrequency",
+    "AvgCourseRatingEnrolled",
+    "AvgSpendPerLearner",
+    "DiversityScore",
+    "LearningDepthIndex",
+    "BeginnerShare",
+    "AdvancedShare",
+    "CertificationShare"
+  ],
+  "categorical_features": [
+    "PreferredCategory",
+    "PreferredLevel",
+    "Gender"
+  ],
+  "final_k": 5,
+  "final_silhouette": 0.19652363066240422,
+  "hier_silhouette": 0.1815554130378107,
+  "ari_kmeans_vs_hier": 0.6009706760252783,
+  "silhouette_by_k": {
+    "2": 0.189871150033589,
+    "3": 0.24738689789198368,
+    "4": 0.19295736316885068,
+    "5": 0.19653096086454305,
+    "6": 0.20349317719335372,
+    "7": 0.18647364598099467,
+    "8": 0.1759000184149187,
+    "9": 0.16459436236491817
+  }
+}

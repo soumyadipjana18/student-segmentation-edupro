@@ -1,0 +1,181 @@
+CourseID,CourseCategory,CourseType,CourseLevel,CourseRating
+C0001,Cloud Computing,Certification,Beginner,4.3
+C0002,Data Science,Certification,Advanced,3.8
+C0003,Data Science,Self-Paced,Intermediate,3.9
+C0004,Marketing,Self-Paced,Advanced,3.3
+C0005,Design,Certification,Beginner,3.9
+C0006,Cloud Computing,Workshop,Beginner,3.5
+C0007,Cloud Computing,Instructor-Led,Beginner,3.9
+C0008,Data Science,Certification,Intermediate,3.8
+C0009,Web Development,Instructor-Led,Beginner,4.1
+C0010,Data Science,Self-Paced,Intermediate,3.8
+C0011,Business,Certification,Advanced,4.1
+C0012,Cloud Computing,Self-Paced,Advanced,3.7
+C0013,Marketing,Self-Paced,Beginner,3.6
+C0014,Cloud Computing,Certification,Intermediate,3.8
+C0015,Business,Self-Paced,Intermediate,4.1
+C0016,Marketing,Instructor-Led,Intermediate,3.6
+C0017,Marketing,Instructor-Led,Intermediate,4.0
+C0018,Data Science,Self-Paced,Beginner,3.5
+C0019,Cybersecurity,Self-Paced,Beginner,3.8
+C0020,Web Development,Instructor-Led,Intermediate,3.8
+C0021,Marketing,Certification,Beginner,3.7
+C0022,Data Science,Certification,Beginner,4.1
+C0023,Data Science,Self-Paced,Intermediate,3.8
+C0024,Business,Self-Paced,Beginner,3.6
+C0025,Web Development,Self-Paced,Beginner,3.3
+C0026,Cybersecurity,Self-Paced,Intermediate,4.1
+C0027,Cloud Computing,Self-Paced,Intermediate,3.5
+C0028,Data Science,Instructor-Led,Advanced,3.1
+C0029,Web Development,Self-Paced,Intermediate,3.1
+C0030,Cloud Computing,Self-Paced,Intermediate,3.6
+C0031,Design,Self-Paced,Intermediate,3.7
+C0032,Data Science,Self-Paced,Intermediate,3.7
+C0033,Data Science,Self-Paced,Intermediate,3.3
+C0034,Design,Instructor-Led,Beginner,3.7
+C0035,Personal Development,Certification,Intermediate,4.2
+C0036,Business,Workshop,Intermediate,3.3
+C0037,Business,Self-Paced,Beginner,3.5
+C0038,Business,Certification,Beginner,4.0
+C0039,Data Science,Self-Paced,Intermediate,3.4
+C0040,Web Development,Certification,Intermediate,4.0
+C0041,Data Science,Self-Paced,Advanced,3.3
+C0042,Design,Certification,Beginner,4.2
+C0043,Web Development,Self-Paced,Advanced,3.5
+C0044,Web Development,Self-Paced,Advanced,3.4
+C0045,Business,Certification,Advanced,4.5
+C0046,Cybersecurity,Instructor-Led,Advanced,4.2
+C0047,Cloud Computing,Self-Paced,Intermediate,3.8
+C0048,Cloud Computing,Workshop,Beginner,3.1
+C0049,Data Science,Self-Paced,Advanced,3.5
+C0050,Design,Self-Paced,Advanced,3.3
+C0051,Cloud Computing,Instructor-Led,Advanced,3.7
+C0052,Data Science,Self-Paced,Beginner,3.8
+C0053,Data Science,Instructor-Led,Intermediate,3.3
+C0054,Data Science,Certification,Advanced,3.5
+C0055,Data Science,Workshop,Beginner,3.4
+C0056,Web Development,Instructor-Led,Intermediate,4.2
+C0057,Web Development,Self-Paced,Advanced,3.7
+C0058,Marketing,Self-Paced,Beginner,3.7
+C0059,Personal Development,Workshop,Intermediate,3.5
+C0060,Business,Self-Paced,Intermediate,4.0
+C0061,Cloud Computing,Self-Paced,Intermediate,3.5
+C0062,Design,Instructor-Led,Advanced,3.6
+C0063,Web Development,Instructor-Led,Beginner,3.1
+C0064,Business,Self-Paced,Beginner,3.2
+C0065,Cloud Computing,Self-Paced,Beginner,3.5
+C0066,Data Science,Self-Paced,Advanced,3.5
+C0067,Personal Development,Self-Paced,Beginner,3.6
+C0068,Data Science,Self-Paced,Beginner,3.7
+C0069,Data Science,Instructor-Led,Intermediate,3.8
+C0070,Web Development,Certification,Intermediate,3.7
+C0071,Data Science,Self-Paced,Beginner,4.3
+C0072,Design,Self-Paced,Beginner,3.2
+C0073,Cloud Computing,Workshop,Beginner,3.0
+C0074,Cybersecurity,Workshop,Advanced,3.4
+C0075,Cloud Computing,Certification,Intermediate,3.9
+C0076,Design,Certification,Intermediate,3.1
+C0077,Business,Self-Paced,Intermediate,3.5
+C0078,Business,Self-Paced,Beginner,3.1
+C0079,Web Development,Self-Paced,Beginner,3.2
+C0080,Web Development,Workshop,Advanced,4.2
+C0081,Web Development,Certification,Intermediate,4.1
+C0082,Cloud Computing,Instructor-Led,Intermediate,3.5
+C0083,Marketing,Instructor-Led,Beginner,3.7
+C0084,Design,Certification,Beginner,4.2
+C0085,Personal Development,Workshop,Beginner,3.4
+C0086,Design,Certification,Intermediate,3.6
+C0087,Web Development,Self-Paced,Intermediate,3.7
+C0088,Design,Instructor-Led,Intermediate,3.9
+C0089,Cloud Computing,Instructor-Led,Intermediate,3.0
+C0090,Personal Development,Self-Paced,Beginner,4.1
+C0091,Marketing,Certification,Beginner,4.2
+C0092,Web Development,Certification,Advanced,4.0
+C0093,Web Development,Self-Paced,Beginner,3.7
+C0094,Personal Development,Self-Paced,Beginner,4.1
+C0095,Design,Certification,Advanced,4.2
+C0096,Web Development,Certification,Advanced,4.2
+C0097,Data Science,Instructor-Led,Advanced,3.0
+C0098,Design,Self-Paced,Intermediate,4.1
+C0099,Cloud Computing,Instructor-Led,Beginner,3.5
+C0100,Web Development,Certification,Advanced,3.5
+C0101,Personal Development,Self-Paced,Advanced,3.8
+C0102,Data Science,Instructor-Led,Advanced,3.8
+C0103,Data Science,Self-Paced,Advanced,3.4
+C0104,Data Science,Self-Paced,Intermediate,3.5
+C0105,Marketing,Self-Paced,Beginner,3.9
+C0106,Design,Self-Paced,Advanced,2.8
+C0107,Data Science,Workshop,Advanced,3.7
+C0108,Marketing,Self-Paced,Advanced,3.3
+C0109,Data Science,Certification,Intermediate,4.0
+C0110,Cybersecurity,Certification,Beginner,3.6
+C0111,Web Development,Workshop,Intermediate,3.1
+C0112,Data Science,Self-Paced,Intermediate,3.6
+C0113,Marketing,Self-Paced,Beginner,3.4
+C0114,Personal Development,Certification,Intermediate,3.9
+C0115,Design,Workshop,Beginner,3.5
+C0116,Design,Instructor-Led,Intermediate,4.1
+C0117,Data Science,Self-Paced,Intermediate,4.3
+C0118,Data Science,Self-Paced,Beginner,4.0
+C0119,Business,Instructor-Led,Intermediate,3.9
+C0120,Business,Instructor-Led,Beginner,3.4
+C0121,Data Science,Instructor-Led,Beginner,4.1
+C0122,Design,Certification,Intermediate,3.9
+C0123,Marketing,Certification,Beginner,4.3
+C0124,Business,Self-Paced,Intermediate,3.7
+C0125,Marketing,Workshop,Advanced,3.6
+C0126,Design,Self-Paced,Intermediate,3.3
+C0127,Business,Self-Paced,Beginner,4.0
+C0128,Data Science,Self-Paced,Beginner,3.5
+C0129,Web Development,Self-Paced,Intermediate,2.9
+C0130,Cybersecurity,Self-Paced,Beginner,3.3
+C0131,Data Science,Workshop,Beginner,4.4
+C0132,Cloud Computing,Instructor-Led,Beginner,3.2
+C0133,Business,Self-Paced,Intermediate,3.9
+C0134,Design,Self-Paced,Beginner,3.9
+C0135,Personal Development,Certification,Intermediate,4.4
+C0136,Data Science,Self-Paced,Beginner,4.1
+C0137,Cloud Computing,Instructor-Led,Beginner,3.6
+C0138,Data Science,Self-Paced,Advanced,3.1
+C0139,Web Development,Instructor-Led,Intermediate,2.9
+C0140,Data Science,Certification,Beginner,4.0
+C0141,Marketing,Certification,Intermediate,4.0
+C0142,Web Development,Self-Paced,Intermediate,3.7
+C0143,Business,Certification,Intermediate,3.9
+C0144,Cybersecurity,Certification,Intermediate,3.5
+C0145,Business,Self-Paced,Intermediate,3.6
+C0146,Cybersecurity,Self-Paced,Intermediate,3.9
+C0147,Data Science,Workshop,Beginner,3.8
+C0148,Web Development,Self-Paced,Intermediate,3.7
+C0149,Marketing,Workshop,Intermediate,4.1
+C0150,Business,Workshop,Intermediate,2.8
+C0151,Personal Development,Certification,Intermediate,4.2
+C0152,Marketing,Instructor-Led,Beginner,3.8
+C0153,Personal Development,Self-Paced,Advanced,4.2
+C0154,Cloud Computing,Self-Paced,Beginner,3.2
+C0155,Cloud Computing,Workshop,Intermediate,3.7
+C0156,Personal Development,Certification,Beginner,4.4
+C0157,Design,Workshop,Advanced,3.9
+C0158,Data Science,Self-Paced,Beginner,3.2
+C0159,Marketing,Certification,Intermediate,3.7
+C0160,Marketing,Self-Paced,Advanced,3.4
+C0161,Marketing,Self-Paced,Advanced,3.7
+C0162,Marketing,Self-Paced,Beginner,3.5
+C0163,Marketing,Certification,Beginner,4.5
+C0164,Cybersecurity,Instructor-Led,Beginner,3.6
+C0165,Web Development,Self-Paced,Advanced,3.8
+C0166,Web Development,Certification,Intermediate,4.7
+C0167,Web Development,Self-Paced,Beginner,3.8
+C0168,Personal Development,Instructor-Led,Intermediate,3.8
+C0169,Cybersecurity,Self-Paced,Intermediate,4.2
+C0170,Data Science,Self-Paced,Beginner,3.3
+C0171,Marketing,Self-Paced,Beginner,3.0
+C0172,Cloud Computing,Self-Paced,Intermediate,3.6
+C0173,Web Development,Workshop,Beginner,3.4
+C0174,Cloud Computing,Instructor-Led,Intermediate,3.5
+C0175,Web Development,Self-Paced,Beginner,4.4
+C0176,Design,Certification,Intermediate,4.2
+C0177,Business,Instructor-Led,Advanced,3.6
+C0178,Data Science,Self-Paced,Intermediate,3.4
+C0179,Personal Development,Self-Paced,Intermediate,3.9
+C0180,Personal Development,Self-Paced,Beginner,2.8

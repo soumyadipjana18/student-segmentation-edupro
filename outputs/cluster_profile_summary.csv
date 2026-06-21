@@ -1,0 +1,6 @@
+Cluster,Age,TotalCoursesEnrolled,NumCategoriesExplored,AvgCoursesPerCategory,EnrollmentFrequency,AvgCourseRatingEnrolled,AvgSpendPerLearner,DiversityScore,LearningDepthIndex,BeginnerShare,AdvancedShare,CertificationShare,N_Learners,TopCategory,TopLevel
+0,28.43,6.03,1.77,3.61,1.18,3.69,55.06,1.77,0.69,0.31,0.27,0.16,501,Data Science,Intermediate
+1,28.68,8.9,4.3,2.11,1.16,3.71,56.07,4.3,0.45,0.55,0.1,0.24,335,Cloud Computing,Beginner
+2,29.0,4.95,2.12,2.44,1.24,3.78,80.98,2.12,0.89,0.11,0.55,0.32,351,Business,Advanced
+3,29.44,2.21,1.36,1.64,0.95,3.58,27.11,1.36,0.15,0.85,0.04,0.02,210,Data Science,Beginner
+4,28.86,2.59,1.32,2.01,0.83,3.86,60.66,1.32,0.27,0.73,0.05,0.56,103,Design,Beginner
