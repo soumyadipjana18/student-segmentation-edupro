@@ -221,7 +221,7 @@ BASE = """
   function nextPageUrl(){
     var idx = PAGES.indexOf(CURRENT);
     var nextIdx = (idx + 1) % PAGES.length;
-    return "/?page=" + encodeURIComponent(PAGES[nextIdx]) + "&auto=1";
+    return "/?page=" + encodeURIComponent(PAGES[nextIdx]) + "&auto=1&_t=" + Date.now();
   }
 
   function updateUI(){
@@ -639,7 +639,10 @@ def index():
     if page not in PAGE_BUILDERS:
         page = "Overview"
     body = PAGE_BUILDERS[page]()
-    return render(body, page)
+    resp = app.make_response(render(body, page))
+    resp.headers["Cache-Control"] = "no-store, no-cache, must-revalidate, max-age=0"
+    resp.headers["Pragma"] = "no-cache"
+    return resp
 
 
 if __name__ == "__main__":
