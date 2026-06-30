@@ -1,0 +1,27 @@
+/*
+  ICONIC BACKGROUND SNIPPET
+  -------------------------
+  Where to add this in app.py:
+
+  Replace your existing "body{...}" rule inside the <style> block
+  with the rule below. It adds a dark education-themed icon pattern
+  (graduation cap, book, lightbulb, certificate) tiled subtly behind
+  every page, plus two soft color gradients for depth.
+
+  Requires --bg variable already defined in your :root, e.g.:
+    :root{ --bg:#0f1117; ... }
+*/
+
+body{
+  margin:0;
+  font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  color:var(--text);
+  background-color:var(--bg);
+  background-image:
+    radial-gradient(circle at 15% 20%, rgba(46,94,170,0.16) 0%, transparent 45%),
+    radial-gradient(circle at 85% 80%, rgba(21,128,61,0.14) 0%, transparent 45%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240' viewBox='0 0 240 240'%3E%3Cg fill='none' stroke='%232a3142' stroke-width='1.4' opacity='0.55'%3E%3Cpath d='M30 40 L30 60 L48 68 L66 60 L66 40 L48 32 Z'/%3E%3Cpath d='M30 40 L48 48 L66 40'/%3E%3Cpath d='M48 48 L48 68'/%3E%3Ccircle cx='150' cy='50' r='14'/%3E%3Cpath d='M150 36 L150 26 M142 22 L158 22'/%3E%3Crect x='180' y='150' width='28' height='20' rx='2'/%3E%3Cpath d='M180 150 L194 142 L208 150'/%3E%3Cpath d='M60 170 L60 200 M50 178 L70 178 M50 192 L70 192'/%3E%3Cpath d='M100 130 Q108 118 116 130 Q108 142 100 130 Z'/%3E%3C/g%3E%3C/svg%3E");
+  background-repeat:no-repeat,no-repeat,repeat;
+  background-attachment:fixed;
+  min-height:100vh;
+}
